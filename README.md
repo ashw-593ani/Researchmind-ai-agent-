@@ -39,56 +39,6 @@ The system provides the following capabilities:
 * **Pydantic** – Data Validation
 * **Rich** – Logging and CLI Output
 
-## Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone <repo-url>
-cd ResearchMind-AI-Agent
-```
-
-### 2. Create a Virtual Environment
-
-```bash
-python -m venv myenv
-```
-
-### Activate the Environment
-
-
-```bash
-myenv\Scripts\activate
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Create a .env File
-
-```env
-MISTRAL_API_KEY=your_mistral_api_key
-TAVILY_API_KEY=your_tavily_api_key
-```
-
-### 5. Run the Application
-
-```bash
-python app.py
-```
-
-### 6. Access the Application
-
-```text
-Local URL:
-http://127.0.0.1:5000/
-
-Hosted URL:
-YOUR_DEPLOYMENT_LINK
-```
 
 ## How to Use
 
