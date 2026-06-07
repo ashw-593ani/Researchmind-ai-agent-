@@ -56,16 +56,9 @@ python -m venv myenv
 
 ### Activate the Environment
 
-#### Windows
 
 ```bash
 myenv\Scripts\activate
-```
-
-#### Linux/Mac
-
-```bash
-source myenv/bin/activate
 ```
 
 ### 3. Install Dependencies
@@ -160,13 +153,15 @@ html5lib
 
 ## Future Improvements
 
-* PDF Research Support
-* Research Report Export (PDF/DOCX)
-* Streamlit Dashboard
-* Multi-Agent Workflow
-* Citation Generation
-* Vector Database Integration
-* RAG-based Research Pipeline
+- PDF Upload & Research Support
+- Research Report Export (PDF/DOCX)
+- Multi-Agent Architecture
+- Citation & Reference Generation
+- Vector Database Integration (RAG)
+- Research History Tracking
+- User Authentication & Login System
+- Chat History Management
+- Source Credibility Scoring
+- Voice-Based Research Assistant
+- Multi-Language Support
 
-
-This project is licensed under the MIT License.
